@@ -9,3 +9,5 @@ Have nice trip.
 
 2021.04.30
 Now I begin to make use of github. Hope to have a nice and fulfilling journey! :) 
+
+Haha, now I'm writing on web.
